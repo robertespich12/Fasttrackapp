@@ -1,0 +1,26 @@
+# FastTrack 🏃
+
+Intermittent fasting, food & water tracker — installable on iPhone as a PWA.
+
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:5173
+
+## Deploy to Vercel (free)
+
+1. Push this repo to GitHub
+2. Go to vercel.com → New Project → Import your repo
+3. Click Deploy (Vite is auto-detected)
+4. Open the live URL in Safari on your iPhone
+5. Tap Share → "Add to Home Screen"
+
+## Build for production
+
+```bash
+npm run build
+```
